@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Jacob Beckerman's Homepage
 ---
 
+Hell world this is my homepage.
